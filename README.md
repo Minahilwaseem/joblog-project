@@ -1,9 +1,9 @@
 
-# JobLog 📝
+JobLog 
 
 A React.js app for managing your job search—track applications, filter/sort by status, and stay organized.
 
-## 🚀 Features
+Features
 - Login and Welcome Header
 - Add / Edit / Delete job applications
 - Search, Filter, and Sort jobs
@@ -11,16 +11,13 @@ A React.js app for managing your job search—track applications, filter/sort by
 - Responsive UI with Tailwind CSS
 - Dark Mode Support
 
-## 💻 Tech Stack
+Tech Stack
 - React.js
 - Tailwind CSS
 - React Router
 - localStorage
 
-## 📸 Screenshots
-_Add some screenshots here using markdown or upload directly to GitHub_
-
-## 📂 Installation
+Installation
 ```bash
 git clone https://github.com/Minahilwaseem/joblog-project.git
 cd joblog-project
